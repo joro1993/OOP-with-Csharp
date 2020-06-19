@@ -1,0 +1,44 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\uppgift1\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.pdb
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.exe
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.deps.json
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.json
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.dev.json
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.pdb
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.csprojAssemblyReference.cache
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.AssemblyInfo.cs
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.pdb
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.exe
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.deps.json
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.json
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.runtimeconfig.dev.json
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\bin\Debug\netcoreapp3.0\Multifabriken.pdb
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.csprojAssemblyReference.cache
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.AssemblyInfo.cs
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.dll
+C:\Users\jonas\Desktop\myCode\1. Skola\Webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Multifabriken1\Multifabriken\obj\Debug\netcoreapp3.0\Multifabriken.pdb
